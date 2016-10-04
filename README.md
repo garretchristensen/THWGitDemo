@@ -70,6 +70,9 @@ We may only have time for #1.
 
 ### Additional Git Topics:
 
+#### SSH Keys:
+You may run into issues.
+
 #### Pull Requests:
 This is how you suggest changes to repositories to which you aren't a full fledged collaborator. Try this with a partner if you have time. Clone a repo you don't own, make a change, submit a pull request, and ask the owner to merge the pull request. Switch roles.
 
