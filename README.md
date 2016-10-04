@@ -1,6 +1,6 @@
 Outline of GitHub Desktop Demo
 ==============================
-BITSS ICPSR Workshop, July 2016
+The Hacker Within, October 4, 2016
 ------------------------------
 ![Git xkcd comic](https://imgs.xkcd.com/comics/git.png)
 
@@ -38,7 +38,7 @@ Go back and forth between local and remote (online) changes, being sure to sync 
 
 <!--This is the branch where I do crazy stuff like adding an HTML comment.-->
 
-<!--Did you notice how above the numbering for the bulleted items is weird in the markdown doc, but when rendered, it looks nice? Thanks, Mardown!-->
+<!--Did you notice how above the numbering for the bulleted items is weird in the markdown doc, but when rendered, it looks nice? Thanks, Markdown!-->
 
 ### Branching:
 Git uses branches to let you experiment on new ideas or bug fixes.
@@ -77,3 +77,5 @@ This is how you suggest changes to repositories to which you aren't a full fledg
 Many, if not most, experienced users will use Git via the command line. (Terminal on a Mac, the Git Shell that came with the Desktop app, Windows PowerShell, there are a lot of options. They're all where you type commands for your computer to execute.) You can read why [here](http://programmers.stackexchange.com/questions/173297/why-learn-git-when-there-are-gui-apps-for-github). Basically, it's more powerful.
 
 There are a million and one online tutorials for Git in the command line. [Software Carpentry's](http://swcarpentry.github.io/git-novice/) is good, as is [Atlassian's](https://www.atlassian.com/git/tutorials/). The basic stuff is all nicely summarized [here](http://rogerdudler.github.io/git-guide/) in a single page.
+
+Help files for the GUIs aren't as thorough, but here's the [link](https://help.github.com/desktop/guides/) for Github Desktop.
