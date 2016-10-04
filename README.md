@@ -40,6 +40,7 @@ Go back and forth between local and remote (online) changes, being sure to sync 
 
 <!--Did you notice how above the numbering for the bulleted items is weird in the markdown doc, but when rendered, it looks nice? Thanks, Markdown!-->
 
+
 ### Branching:
 Git uses branches to let you experiment on new ideas or bug fixes.
 
@@ -70,6 +71,8 @@ We may only have time for #1.
 
 ### Additional Git Topics:
 
+![Git data flow](https://upload.wikimedia.org/wikipedia/commons/2/29/Git_data_flow.png)
+
 #### SSH Keys:
 You may run into issues.
 
@@ -82,4 +85,6 @@ Many, if not most, experienced users will use Git via the command line. (Termina
 There are a million and one online tutorials for Git in the command line. [Software Carpentry's](http://swcarpentry.github.io/git-novice/) is good, as is [Atlassian's](https://www.atlassian.com/git/tutorials/). The basic stuff is all nicely summarized [here](http://rogerdudler.github.io/git-guide/) in a single page.
 
 Help files for the GUIs aren't as thorough, but here's the [link](https://help.github.com/desktop/guides/) for Github Desktop.
+
+
 
