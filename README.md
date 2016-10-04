@@ -86,5 +86,10 @@ There are a million and one online tutorials for Git in the command line. [Softw
 
 Help files for the GUIs aren't as thorough, but here's the [link](https://help.github.com/desktop/guides/) for Github Desktop.
 
-
+#### Advanced Commands:
+- [`git apply`](https://git-scm.com/docs/git-apply) to work with `.patch` or `.diff` files
+- [`git cherry-pick`](https://git-scm.com/docs/git-cherry-pick) to copy individual commits from different branches
+- [`git rebase`](https://git-scm.com/docs/git-rebase) to rewrite history - see "So you have a (git) mess on your hands" ![troubleshooting guide](http://justinhileman.info/article/git-pretty/git-pretty.png)
+- [`git blame`](https://git-scm.com/docs/git-blame) who wrote this code anyway?
+- [`git bisect`](https://git-scm.com/docs/git-bisect) to pinpoint when a bug was introduced
 
